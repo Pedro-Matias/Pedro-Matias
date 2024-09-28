@@ -9,8 +9,9 @@
 # I have experience with 🚀
 [![Experience With](https://skillicons.dev/icons?i=html,css,sass,js,java,nodejs,git,github,mysql,matlab)](https://skillicons.dev)
 
-# My Setup 🖥️
-[![Experience With](https://skillicons.dev/icons?i=windows,linux,kali,vscodium,eclipse,androidstudio)](https://skillicons.dev)
+# my setup 🖥️
+[![Experience With](https://skillicons.dev/icons?i=windows,kali,vscodium,eclipse,androidstudio)](https://skillicons.dev)
 
-# Socials 🤙 - feel free to message me, any help is appreciated.
+# socials 🤙 - feel free to message me, any help is appreciated.
 [LinkedIn](https://www.linkedin.com/in/matias-pedro/)
+[Instagram](https://www.instagram.com/peaga.matias/)
