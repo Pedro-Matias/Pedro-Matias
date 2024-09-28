@@ -1,6 +1,6 @@
 # yo 👋
 
-✏️ I'm Pedro Matias
+✏️ I'm Pedro Matias  
 ⚙️ currently graduating on mechatronics engineering
 
 # I'm studying ☝️🤓
