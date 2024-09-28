@@ -12,6 +12,8 @@
 # my setup 🖥️
 [![Experience With](https://skillicons.dev/icons?i=windows,kali,vscodium,eclipse,androidstudio)](https://skillicons.dev)
 
-# socials 🤙 - feel free to message me, any help is appreciated.
+# socials 🤙
 [LinkedIn](https://www.linkedin.com/in/matias-pedro/)  
 [Instagram](https://www.instagram.com/peaga.matias/)
+
+feel free to message me, any help is appreciated
